@@ -8,6 +8,19 @@
 
 - 📫 Shoot a mail at **ks20soni@gmail.com**
 
+<h2><i>📝 Languages and Tools </i></h2>
+<p float="center">
+<img height="30" src="https://user-images.githubusercontent.com/78142604/149630531-6ebe40af-8662-4fd9-ae00-c9471026aec1.png">&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> &nbsp;
+<img height="30" src="https://user-images.githubusercontent.com/78142604/149630555-2a25a1bb-e258-46f4-8a99-2ec45dc5b34e.png"> &nbsp;
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> &nbsp;
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp;
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> &nbsp;
+<img height="30" src="https://user-images.githubusercontent.com/78142604/149630593-80e00fc2-1756-4a03-97e1-a9f291a1dd0c.png"> &nbsp;
+ <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> &nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+</p>
+
 ## My GitHub Stats
 
 <div align="center">
